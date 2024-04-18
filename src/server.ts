@@ -1,5 +1,5 @@
 import express from 'express';
-import chargerRoutes from './routes/chargerRoutes';
+import chargerRoutes from './routes/ChargerRoutes';
 
 const app = express();
 const PORT = process.env.PORT || 3000;
